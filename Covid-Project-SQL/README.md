@@ -173,3 +173,5 @@ Global death percentages varied over time.
 Vaccination rollouts showed gradual increases across nations.
 Rolling vaccination totals provided clearer insight into vaccination progress.
 Continental comparisons revealed differing pandemic impacts globally.
+
+link to dataset: https://ourworldindata.org/covid-deaths
